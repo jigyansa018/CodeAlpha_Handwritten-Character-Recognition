@@ -1,4 +1,4 @@
-# ✍️Handwritten-Digit-Recognition-using-Deep-Learning
+# ✍️Handwritten-Digit-Recognition
 📌 Project Overview
 This project focuses on recognizing handwritten digits using Deep Learning techniques. The model is trained using the famous MNIST handwritten digit dataset and uses a Neural Network to accurately classify digits from 0–9.
 The project demonstrates:
